@@ -1,5 +1,38 @@
+
+
+    .Basico-1-hex { color: #C16BFF; }
+    .Basico-2-hex { color: #6EEB8A; }
+    .Basico-3-hex { color: #FFB578; }
+    .Basico-4-hex { color: #7978EB; }
+    .Basico-5-hex { color: #C0FF8C; }
+    
+   
+    .Basico-1-rgba { color: rgba(193, 107, 255, 1); }
+    .Basico-2-rgba { color: rgba(110, 235, 138, 1); }
+    .Basico-3-rgba { color: rgba(255, 181, 120, 1); }
+    .Basico-4-rgba { color: rgba(121, 120, 235, 1); }
+    .Basico-5-rgba { color: rgba(192, 255, 140, 1); }
+    
+
+    .Basico-1-hsla { color: hsla(274, 100, 70, 1); }
+    .Basico-2-hsla { color: hsla(133, 75, 67, 1); }
+    .Basico-3-hsla { color: hsla(27, 100, 73, 1); }
+    .Basico-4-hsla { color: hsla(240, 74, 69, 1); }
+    .Basico-5-hsla { color: hsla(92, 100, 77, 1); }
+
+
 *{
     margin: 0px;
     padding: 0px;
     background-color: #f1f1f1;
 }
+
+
+header{
+
+    background-color:yellowgreen;
+    height: 30px;
+    width: 100%;
+    margin: 30px 30px;
+}
+
