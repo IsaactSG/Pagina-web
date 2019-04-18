@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /*background-color: #f1f1f1f1;*/
+}
+
+header{
+    height: 50px;
+    background-color: thistle;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+
+header h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+    font-size: 30px;
+    text-align: center;
+}
